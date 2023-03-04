@@ -1,0 +1,5 @@
+firstname=input("Ismingizni kriting")
+lastnmae=input("Familya kriting")
+age=input("Yoshingizni kriting")
+email=input("Emailingzni kriting")
+password=input("Parolingizni kriting")
