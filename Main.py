@@ -6,7 +6,7 @@ if login == 'Shoxjahon':
 elif login == 'admin':
     print('Men sizni tanimadim')
 if parol == '123456':
-    print('')
+    print('Siz parolni tugri krittiz')
 elif parol == '654321':
     print('Siz parolni xato kritingiz')
 if email == 'shoxjaxonkarimov':
