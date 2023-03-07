@@ -12,4 +12,4 @@ elif parol == '654321':
 if email == 'shoxjaxonkarimov':
     print ==('Siz emailni tugri krittiz')
 elif email == 'adminkarimov':
-    print ==('Emailni tugri krittiz')
+    print ==('Siz emailni notugri krittiz')
